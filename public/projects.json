@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "title": "TechNest",
+    "description": "A modern tech product showcase platform built with React and Tailwind CSS. It features category-based browsing, responsive UI, and smooth animations for an engaging user experience.",
+    "image": "/src/assets/ss/technest.png",
+    "technologies": [
+      "React",
+      "MongoDB",
+      "Express js",
+      "Node js",
+      "Tailwind CSS",
+      "Firebase",
+      "Jwt",
+      "Axios",
+      "Tanstack query"
+    ],
+    "liveLink": "https://technest-9d1.web.app"
+  },
+  {
+    "id": 2,
+    "title": "Budget Tracker",
+    "description": "A simple yet powerful web app to manage personal expenses and savings. Built with the MERN stack, it allows users to add, edit, and track spending with visual summaries.",
+    "image": "/src/assets/ss/budgettracker.png",
+    "technologies": [
+      "React",
+      "MongoDB",
+      "Express js",
+      "Node js",
+      "Jwt",
+      "Tailwind CSS",
+      "Axios"
+    ],
+    "liveLink": "https://budget-buddy-pr.web.app"
+  },
+  {
+    "id": 3,
+    "title": "RestroFlow",
+    "description": "An online restaurant management and food ordering system developed using React, Node.js, and MongoDB. It helps users explore menus, place orders, and manage reservations efficiently.",
+    "image": "/src/assets/ss/restroflow.png",
+    "technologies": [
+      "React",
+      "Tailwind CSS",
+      "Firebase",
+      "Express js",
+      "Node js",
+      "MongoDB"
+    ],
+    "liveLink": "https://restroflow-1b903.web.app"
+  }
+]
